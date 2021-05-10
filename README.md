@@ -1,1 +1,1 @@
-# outside_of_class_fun_stuff
+# This is where i will be placing all of my outside work. This is meant to help understand all the class material better but also allow me to try new things and have a fun time messing with all different programming langauges
